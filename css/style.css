@@ -1,0 +1,127 @@
+.one{
+	
+	padding: 30px 210px;
+	
+}
+.banner{
+	background-image: url(../images/banner.png);
+	height: 800px;
+	background-position: center;
+}
+.banner h1{
+	
+	margin-top: 334px;
+	color: white;
+	font-size: 60px;
+}
+
+.banner hr{
+	width: 60%;
+	margin: 38px auto;
+	border: 3px solid cyan;
+}
+.banner p{
+	
+	color: white;
+	margin-bottom: 63px;
+}
+.banner a{
+	border: 2px solid cyan;
+	padding: 10px 20px;
+	border-radius: 5px;
+	color: white;
+	text-decoration: none;
+	margin-top: 173px;
+	
+	width: 154px;
+	
+}
+.banner i{
+	padding-top: 100px;
+	color: cyan;
+	font-size: 40px;
+}
+.documentation h1{
+	
+	margin-top: 83px;
+	margin-bottom: 33px;
+
+font-size: 70px;
+
+}
+.documentation p{
+	
+	margin-top: 0px;
+	font-size: 18px;
+}
+.icon i{
+	font-size: 60px;
+	border: 1px solid cyan;
+	
+	background-color: cyan;
+	
+
+width: 95px;
+
+margin-top: 160px;
+
+}
+.icon-text h1{
+	font-size: 25px;
+	color: #2D3950;
+
+}
+.icon p{
+	
+	font-size: 16px;
+	margin-bottom: 133px;
+	
+}
+section{
+	padding: 20px 0px;
+}
+.login{
+	padding-top: 86px;
+	padding-bottom: 15px;
+}
+form{
+	padding-top: 199px;
+	background-image:linear-gradient(rgba(0,0,0,.6), rgba(255, 132, 655, .5) ),url(../images/log.png);
+	background-size: cover;
+	background-position: center;
+	height:695px;
+}
+textarea.form-control{
+	height: 150px;
+
+}
+label{
+	color: white;
+	
+
+}
+.custom-checkbox{
+	float: left;
+}
+.custom-btn{
+	float: right;
+}
+
+.two p{
+	text-align: left;
+	margin-top: 8px;
+
+}
+.three ul{
+	text-align: right;
+
+}
+.three li{
+	display: inline-block;
+	padding: 0px 10px;
+	font-size: 30px;
+	background-color: cyan;
+	color: white;
+}
+
+
